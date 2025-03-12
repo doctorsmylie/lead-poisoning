@@ -1,0 +1,43 @@
+Geo Description,Year,BLL Category,Sex,Case Count,Lead Screening Count,"Prevalence per 1,000",95 percent Confidence Interval Label,State BLL Case Count,State Lead Screening Count,"State Rate per 1,000",Statistical Significance,High-risk,Stability,Average(BLL Case Count) Label,Average(Lead Screening Count),Total(Rate) Label,95 percent Total(Confidence Interval) Label,State Average BLL Cases Count,State Average Screening Count,State Rate,Statistical Significance for Annual Average
+Barnstable,2022,Estimated Confirmed  5 g/dL (elevated),Female,7,1852,3.8,1.0 - 6.6,1032,79983,12.90274183,Statistically significantly lower,NA ,Unstable,,,,,,,,,
+Barnstable,2022,Estimated Confirmed  5 g/dL (elevated),Male,10,1823,5.5,2.1 - 8.9,1156,83250,13.88588589,Statistically significantly lower,NA ,Unstable,,,,,,,,,
+Barnstable,2022,Estimated Confirmed  5 g/dL (elevated),Total,17,3675,4.6,2.4 - 6.8,2188,163233,13.40415235,Statistically significantly lower,NA ,Stable  ,17,3675,4.6,2.4 - 6.8,30632,163233,13.40415235,Statistically significantly lower
+Berkshire,2022,Estimated Confirmed  5 g/dL (elevated),Female,30,1151,26.1,16.7 - 35.4,1032,79983,12.90274183,Statistically significantly higher,NA ,Stable  ,,,,,,,,,
+Berkshire,2022,Estimated Confirmed  5 g/dL (elevated),Male,33,1127,29.3,19.3 - 39.3,1156,83250,13.88588589,Statistically significantly higher,NA ,Stable  ,,,,,,,,,
+Berkshire,2022,Estimated Confirmed  5 g/dL (elevated),Total,63,2278,27.7,20.8 - 34.5,2188,163233,13.40415235,Statistically significantly higher,NA ,Stable  ,63,2278,27.7,20.8 - 34.5,30632,163233,13.40415235,Statistically significantly higher
+Bristol,2022,Estimated Confirmed  5 g/dL (elevated),Female,121,7044,17.2,14.1 - 20.2,1032,79983,12.90274183,Statistically significantly higher,NA ,Stable  ,,,,,,,,,
+Bristol,2022,Estimated Confirmed  5 g/dL (elevated),Male,144,7354,19.6,16.4 - 22.8,1156,83250,13.88588589,Statistically significantly higher,NA ,Stable  ,,,,,,,,,
+Bristol,2022,Estimated Confirmed  5 g/dL (elevated),Total,265,14398,18.4,16.2 - 20.6,2188,163233,13.40415235,Statistically significantly higher,NA ,Stable  ,265,14398,18.4,16.2 - 20.6,30632,163233,13.40415235,Statistically significantly higher
+Dukes,2022,Estimated Confirmed  5 g/dL (elevated),Female,NS,163,NS,NS,1032,79983,12.90274183,NS,NA ,NS      ,,,,,,,,,
+Dukes,2022,Estimated Confirmed  5 g/dL (elevated),Male,NS,186,NS,NS,1156,83250,13.88588589,NS,NA ,NS      ,,,,,,,,,
+Dukes,2022,Estimated Confirmed  5 g/dL (elevated),Total,NS,349,NS,NS,2188,163233,13.40415235,NS,NA ,NS      ,NS,349,NS,NS,30632,163233,13.40415235,NS
+Essex,2022,Estimated Confirmed  5 g/dL (elevated),Female,121,10104,12.0,9.8 - 14.1,1032,79983,12.90274183,Not statistically different,NA ,Stable  ,,,,,,,,,
+Essex,2022,Estimated Confirmed  5 g/dL (elevated),Male,112,10719,10.4,8.5 - 12.4,1156,83250,13.88588589,Statistically significantly lower,NA ,Stable  ,,,,,,,,,
+Essex,2022,Estimated Confirmed  5 g/dL (elevated),Total,233,20823,11.2,9.8 - 12.6,2188,163233,13.40415235,Statistically significantly lower,NA ,Stable  ,233,20823,11.2,9.8 - 12.6,30632,163233,13.40415235,Statistically significantly lower
+Franklin,2022,Estimated Confirmed  5 g/dL (elevated),Female,15,422,35.5,17.6 - 53.5,1032,79983,12.90274183,Statistically significantly higher,NA ,Stable  ,,,,,,,,,
+Franklin,2022,Estimated Confirmed  5 g/dL (elevated),Male,15,424,35.4,17.5 - 53.3,1156,83250,13.88588589,Statistically significantly higher,NA ,Stable  ,,,,,,,,,
+Franklin,2022,Estimated Confirmed  5 g/dL (elevated),Total,30,846,35.5,22.8 - 48.2,2188,163233,13.40415235,Statistically significantly higher,NA ,Stable  ,30,846,35.5,22.8 - 48.2,30632,163233,13.40415235,Statistically significantly higher
+Hampden,2022,Estimated Confirmed  5 g/dL (elevated),Female,93,5067,18.4,14.6 - 22.1,1032,79983,12.90274183,Statistically significantly higher,NA ,Stable  ,,,,,,,,,
+Hampden,2022,Estimated Confirmed  5 g/dL (elevated),Male,131,5427,24.1,20.0 - 28.3,1156,83250,13.88588589,Statistically significantly higher,NA ,Stable  ,,,,,,,,,
+Hampden,2022,Estimated Confirmed  5 g/dL (elevated),Total,224,10494,21.3,18.6 - 24.1,2188,163233,13.40415235,Statistically significantly higher,NA ,Stable  ,224,10494,21.3,18.6 - 24.1,30632,163233,13.40415235,Statistically significantly higher
+Hampshire,2022,Estimated Confirmed  5 g/dL (elevated),Female,11,983,11.2,4.6 - 17.8,1032,79983,12.90274183,Not statistically different,NA ,Unstable,,,,,,,,,
+Hampshire,2022,Estimated Confirmed  5 g/dL (elevated),Male,9,954,9.4,3.3 - 15.6,1156,83250,13.88588589,Not statistically different,NA ,Unstable,,,,,,,,,
+Hampshire,2022,Estimated Confirmed  5 g/dL (elevated),Total,20,1937,10.3,5.8 - 14.9,2188,163233,13.40415235,Not statistically different,NA ,Stable  ,20,1937,10.3,5.8 - 14.9,30632,163233,13.40415235,Not statistically different
+Middlesex,2022,Estimated Confirmed  5 g/dL (elevated),Female,186,19452,9.6,8.2 - 10.9,1032,79983,12.90274183,Statistically significantly lower,NA ,Stable  ,,,,,,,,,
+Middlesex,2022,Estimated Confirmed  5 g/dL (elevated),Male,212,19980,10.6,9.2 - 12.0,1156,83250,13.88588589,Statistically significantly lower,NA ,Stable  ,,,,,,,,,
+Middlesex,2022,Estimated Confirmed  5 g/dL (elevated),Total,398,39432,10.1,9.1 - 11.1,2188,163233,13.40415235,Statistically significantly lower,NA ,Stable  ,398,39432,10.1,9.1 - 11.1,30632,163233,13.40415235,Statistically significantly lower
+Nantucket,2022,Estimated Confirmed  5 g/dL (elevated),Female,0,145,0.0,0.0 - 44.1,1032,79983,12.90274183,Statistically significantly lower,NA ,Unstable,,,,,,,,,
+Nantucket,2022,Estimated Confirmed  5 g/dL (elevated),Male,NS,137,NS,NS,1156,83250,13.88588589,NS,NA ,NS      ,,,,,,,,,
+Nantucket,2022,Estimated Confirmed  5 g/dL (elevated),Total,NS,282,NS,NS,2188,163233,13.40415235,NS,NA ,NS      ,NS,282,NS,NS,30632,163233,13.40415235,NS
+Norfolk,2022,Estimated Confirmed  5 g/dL (elevated),Female,52,9022,5.8,4.2 - 7.3,1032,79983,12.90274183,Statistically significantly lower,NA ,Stable  ,,,,,,,,,
+Norfolk,2022,Estimated Confirmed  5 g/dL (elevated),Male,67,9383,7.1,5.4 - 8.9,1156,83250,13.88588589,Statistically significantly lower,NA ,Stable  ,,,,,,,,,
+Norfolk,2022,Estimated Confirmed  5 g/dL (elevated),Total,119,18405,6.5,5.3 - 7.6,2188,163233,13.40415235,Statistically significantly lower,NA ,Stable  ,119,18405,6.5,5.3 - 7.6,30632,163233,13.40415235,Statistically significantly lower
+Plymouth,2022,Estimated Confirmed  5 g/dL (elevated),Female,84,6828,12.3,9.7 - 14.9,1032,79983,12.90274183,Not statistically different,NA ,Stable  ,,,,,,,,,
+Plymouth,2022,Estimated Confirmed  5 g/dL (elevated),Male,90,7205,12.5,9.9 - 15.1,1156,83250,13.88588589,Not statistically different,NA ,Stable  ,,,,,,,,,
+Plymouth,2022,Estimated Confirmed  5 g/dL (elevated),Total,174,14033,12.4,10.6 - 14.2,2188,163233,13.40415235,Not statistically different,NA ,Stable  ,174,14033,12.4,10.6 - 14.2,30632,163233,13.40415235,Not statistically different
+Suffolk,2022,Estimated Confirmed  5 g/dL (elevated),Female,150,8687,17.3,14.5 - 20.0,1032,79983,12.90274183,Statistically significantly higher,NA ,Stable  ,,,,,,,,,
+Suffolk,2022,Estimated Confirmed  5 g/dL (elevated),Male,160,8948,17.9,15.1 - 20.7,1156,83250,13.88588589,Statistically significantly higher,NA ,Stable  ,,,,,,,,,
+Suffolk,2022,Estimated Confirmed  5 g/dL (elevated),Total,310,17635,17.6,15.6 - 19.5,2188,163233,13.40415235,Statistically significantly higher,NA ,Stable  ,310,17635,17.6,15.6 - 19.5,30632,163233,13.40415235,Statistically significantly higher
+Worcester,2022,Estimated Confirmed  5 g/dL (elevated),Female,137,9063,15.1,12.6 - 17.6,1032,79983,12.90274183,Not statistically different,NA ,Stable  ,,,,,,,,,
+Worcester,2022,Estimated Confirmed  5 g/dL (elevated),Male,151,9583,15.8,13.2 - 18.3,1156,83250,13.88588589,Not statistically different,NA ,Stable  ,,,,,,,,,
+Worcester,2022,Estimated Confirmed  5 g/dL (elevated),Total,288,18646,15.4,13.7 - 17.2,2188,163233,13.40415235,Not statistically different,NA ,Stable  ,288,18646,15.4,13.7 - 17.2,30632,163233,13.40415235,Not statistically different

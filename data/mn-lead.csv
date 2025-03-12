@@ -1,0 +1,89 @@
+FIPS,Region,NumberTested,PercentTested,PercentTestedCategory,NumberEBLLs,PctEBLLs,SmallCount,PctCategoryNumber,PctCategoryText,Number15Above,NumberBirths,PctPovertyChildrenUnder5,PctPre1950Housing,PctPre1980Housing
+27000,Minnesota,53907,80.1,3,356,0.7,,2,No significant difference,46,67341,11.7,20.3,54.1
+27001,Aitkin County,89,73,3,1,1.1,SMALLCOUNT,2,No significant difference,0,122,14.6,14.8,48.8
+27003,Anoka County,3962,93.4,4,8,0.2,SMALLCOUNT,1,Significantly lower than MN,2,4241,7.9,5.3,42.1
+27005,Becker County,202,46.9,1,0,0,SMALLCOUNT,2,No significant difference,0,431,18.4,18.6,53.8
+27007,Beltrami County,444,69.3,2,1,0.2,SMALLCOUNT,2,No significant difference,0,641,25.4,14.7,44.9
+27009,Benton County,543,97.3,4,1,0.2,SMALLCOUNT,2,No significant difference,0,558,9.1,13.2,44.0
+27011,Big Stone County,51,72.9,3,1,2,SMALLCOUNT,2,No significant difference,0,70,9.2,39.5,78.8
+27013,Blue Earth County,536,73,3,8,1.5,SMALLCOUNT,3,Significantly higher than MN,1,734,12.1,25.1,54.7
+27015,Brown County,241,83.1,3,3,1.2,SMALLCOUNT,2,No significant difference,1,290,12.1,36.6,72.1
+27017,Carlton County,329,91.9,4,2,0.6,SMALLCOUNT,2,No significant difference,0,358,13.4,23.3,59.1
+27019,Carver County,938,81.7,3,6,0.6,SMALLCOUNT,2,No significant difference,2,1148,3.3,8.9,26.4
+27021,Cass County,206,70.3,3,2,1,SMALLCOUNT,2,No significant difference,0,293,27.3,10.0,38.3
+27023,Chippewa County,118,72,3,0,0,SMALLCOUNT,2,No significant difference,0,164,8.2,38.5,77.5
+27025,Chisago County,495,82.6,3,1,0.2,SMALLCOUNT,2,No significant difference,0,599,11.8,12.3,36.9
+27027,Clay County,663,80.9,3,0,0,SMALLCOUNT,1,Significantly lower than MN,0,820,13.4,15.5,53.1
+27029,Clearwater County,31,27.2,1,0,0,SMALLCOUNT,2,No significant difference,0,114,21.1,21.5,51.6
+27031,Cook County,23,51.1,2,0,0,SMALLCOUNT,2,No significant difference,0,45,15.3,16.1,44.9
+27033,Cottonwood County,56,42.1,1,0,0,SMALLCOUNT,2,No significant difference,0,133,9.5,38.2,81.7
+27035,Crow Wing County,519,79.6,3,0,0,SMALLCOUNT,2,No significant difference,0,652,18.1,13.5,42.5
+27037,Dakota County,4729,92,4,12,0.3,SMALLCOUNT,1,Significantly lower than MN,0,5140,5.1,5.6,35.9
+27039,Dodge County,101,39.8,1,1,1,SMALLCOUNT,2,No significant difference,0,254,6.5,21.4,50.7
+27041,Douglas County,363,84.2,3,1,0.3,SMALLCOUNT,2,No significant difference,0,431,8.5,16.8,46.5
+27043,Faribault County,110,70.5,3,2,1.8,SMALLCOUNT,2,No significant difference,0,156,14.2,45.2,87.2
+27045,Fillmore County,128,51.8,2,3,2.3,SMALLCOUNT,3,Significantly higher than MN,0,247,12.6,40.5,66.7
+27047,Freeborn County,248,81.6,3,5,2,SMALLCOUNT,3,Significantly higher than MN,0,304,8.1,35.3,78.0
+27049,Goodhue County,370,71.4,3,8,2.2,SMALLCOUNT,3,Significantly higher than MN,0,518,14.3,28.2,60.5
+27051,Grant County,40,85.1,3,0,0,SMALLCOUNT,2,No significant difference,0,47,8.1,35.2,64.8
+27053,Hennepin County,12592,79.5,3,79,0.6,,2,No significant difference,13,15845,11.1,24.0,62.3
+27055,Houston County,100,54.6,2,3,3,SMALLCOUNT,3,Significantly higher than MN,0,183,9.9,30.1,65.4
+27057,Hubbard County,135,67.5,2,2,1.5,SMALLCOUNT,2,No significant difference,0,200,14.6,12.6,43.7
+27059,Isanti County,417,87.8,3,3,0.7,SMALLCOUNT,2,No significant difference,1,475,10.2,13.7,44.3
+27061,Itasca County,417,94.8,4,4,1,SMALLCOUNT,2,No significant difference,0,440,19.2,16.4,52.4
+27063,Jackson County,71,72.4,3,2,2.8,SMALLCOUNT,3,Significantly higher than MN,0,98,18.8,40.9,82.6
+27065,Kanabec County,133,74.7,3,2,1.5,SMALLCOUNT,2,No significant difference,0,178,11.8,18.9,49.0
+27067,Kandiyohi County,493,88.8,3,5,1,SMALLCOUNT,2,No significant difference,1,555,14.4,21.5,59.1
+27069,Kittson County,16,30.2,1,0,0,SMALLCOUNT,2,No significant difference,0,53,7.5,33.0,76.3
+27071,Koochiching County,85,93.4,4,1,1.2,SMALLCOUNT,2,No significant difference,0,91,17.2,20.5,64.5
+27073,Lac qui Parle County,53,80.3,3,0,0,SMALLCOUNT,2,No significant difference,0,66,8.7,49.0,80.4
+27075,Lake County,81,77.9,3,1,1.2,SMALLCOUNT,2,No significant difference,0,104,4.2,20.9,65.3
+27077,Lake of the Woods County,4,12.1,1,0,0,SMALLCOUNT,2,No significant difference,0,33,17.5,13.2,49.6
+27079,Le Sueur County,239,73.8,3,2,0.8,SMALLCOUNT,2,No significant difference,0,324,11.1,26.6,59.9
+27081,Lincoln County,29,41.4,1,0,0,SMALLCOUNT,2,No significant difference,0,70,4.0,37.9,76.3
+27083,Lyon County,198,55.6,2,0,0,SMALLCOUNT,2,No significant difference,0,356,18.0,26.9,64.5
+27085,McLeod County,309,78.6,3,3,1,SMALLCOUNT,2,No significant difference,1,393,11.9,22.1,53.5
+27087,Mahnomen County,35,38.9,1,1,2.9,SMALLCOUNT,2,No significant difference,0,90,30.9,21.5,58.0
+27089,Marshall County,27,33.3,1,1,3.7,SMALLCOUNT,2,No significant difference,0,81,8.6,28.3,70.7
+27091,Martin County,189,77.5,3,4,2.1,SMALLCOUNT,3,Significantly higher than MN,1,244,16.0,38.3,79.4
+27093,Meeker County,224,76.2,3,1,0.4,SMALLCOUNT,2,No significant difference,0,294,6.2,25.1,59.9
+27095,Mille Lacs County,189,62.6,2,0,0,SMALLCOUNT,2,No significant difference,0,302,23.2,20.2,50.9
+27097,Morrison County,323,91,4,1,0.3,SMALLCOUNT,2,No significant difference,0,355,14.7,24.0,55.3
+27099,Mower County,337,62.5,2,3,0.9,SMALLCOUNT,2,No significant difference,1,539,17.1,35.5,75.8
+27101,Murray County,41,50.6,2,0,0,SMALLCOUNT,2,No significant difference,0,81,5.8,35.4,68.5
+27103,Nicollet County,272,80,3,0,0,SMALLCOUNT,2,No significant difference,0,340,4.5,20.5,50.7
+27105,Nobles County,301,78,3,1,0.3,SMALLCOUNT,2,No significant difference,0,386,15.2,30.4,76.3
+27107,Norman County,61,75.3,3,1,1.6,SMALLCOUNT,2,No significant difference,0,81,9.7,35.8,77.4
+27109,Olmsted County,637,31.3,1,5,0.8,SMALLCOUNT,2,No significant difference,0,2035,9.2,12.1,42.7
+27111,Otter Tail County,452,73.9,3,2,0.4,SMALLCOUNT,2,No significant difference,1,612,11.3,21.1,52.2
+27113,Pennington County,116,69.5,2,0,0,SMALLCOUNT,2,No significant difference,0,167,19.1,27.1,65.7
+27115,Pine County,162,72,3,1,0.6,SMALLCOUNT,2,No significant difference,0,225,10.4,15.3,44.1
+27117,Pipestone County,23,16.4,1,0,0,SMALLCOUNT,2,No significant difference,0,140,13.6,37.0,78.2
+27119,Polk County,199,45.7,1,3,1.5,SMALLCOUNT,2,No significant difference,0,435,14.0,28.0,67.3
+27121,Pope County,88,72.7,3,1,1.1,SMALLCOUNT,2,No significant difference,0,121,4.0,28.7,60.0
+27123,Ramsey County,6445,85.8,3,73,1.1,,3,Significantly higher than MN,10,7513,19.9,30.9,71.4
+27125,Red Lake County,26,60.5,2,0,0,SMALLCOUNT,2,No significant difference,0,43,15.5,36.4,69.9
+27127,Redwood County,159,79.9,3,2,1.3,SMALLCOUNT,2,No significant difference,1,199,12.8,40.2,75.7
+27129,Renville County,160,88.9,3,4,2.5,SMALLCOUNT,3,Significantly higher than MN,2,180,12.2,43.9,79.2
+27131,Rice County,626,86,3,6,1,SMALLCOUNT,2,No significant difference,0,728,18.5,23.6,55.5
+27133,Rock County,18,18.6,1,0,0,SMALLCOUNT,2,No significant difference,0,97,8.7,38.5,74.8
+27135,Roseau County,33,19.1,1,1,3,SMALLCOUNT,2,No significant difference,0,173,16.0,17.8,48.2
+27137,St. Louis County,1599,88.2,3,23,1.4,,3,Significantly higher than MN,4,1813,19.1,35.1,71.1
+27139,Scott County,1559,90.8,4,0,0,SMALLCOUNT,1,Significantly lower than MN,0,1717,7.5,5.8,24.0
+27141,Sherburne County,963,79.6,3,2,0.2,SMALLCOUNT,2,No significant difference,0,1210,6.1,5.2,28.5
+27143,Sibley County,135,77.1,3,2,1.5,SMALLCOUNT,2,No significant difference,0,175,8.4,39.3,71.1
+27145,Stearns County,1929,93.8,4,12,0.6,SMALLCOUNT,2,No significant difference,3,2057,18.0,15.6,45.4
+27147,Steele County,302,78.4,3,2,0.7,SMALLCOUNT,2,No significant difference,0,385,12.9,25.8,61.7
+27149,Stevens County,76,61.3,2,0,0,SMALLCOUNT,2,No significant difference,0,124,7.2,29.7,66.8
+27151,Swift County,92,80.7,3,1,1.1,SMALLCOUNT,2,No significant difference,0,114,15.3,37.9,75.0
+27153,Todd County,248,77,3,0,0,SMALLCOUNT,2,No significant difference,0,322,15.1,28.3,60.8
+27155,Traverse County,31,77.5,3,0,0,SMALLCOUNT,2,No significant difference,0,40,12.5,41.4,73.6
+27157,Wabasha County,114,48.9,1,2,1.8,SMALLCOUNT,2,No significant difference,0,233,9.0,26.0,53.7
+27159,Wadena County,164,91.1,4,2,1.2,SMALLCOUNT,2,No significant difference,0,180,20.3,21.8,59.7
+27161,Waseca County,161,74.2,3,2,1.2,SMALLCOUNT,2,No significant difference,0,217,8.0,31.4,67.2
+27163,Washington County,2452,89.8,3,8,0.3,SMALLCOUNT,2,No significant difference,0,2732,4.2,7.9,34.0
+27165,Watonwan County,136,81,3,4,2.9,SMALLCOUNT,3,Significantly higher than MN,0,168,15.2,42.7,76.8
+27167,Wilkin County,58,87.9,3,1,1.7,SMALLCOUNT,2,No significant difference,0,66,29.4,28.1,66.7
+27169,Winona County,309,65.3,2,10,3.2,SMALLCOUNT,3,Significantly higher than MN,0,473,11.4,34.5,63.0
+27171,Wright County,1256,71.1,3,0,0,SMALLCOUNT,1,Significantly lower than MN,0,1767,4.6,10.1,32.7
+27173,Yellow Medicine County,82,72.6,3,1,1.2,SMALLCOUNT,2,No significant difference,1,113,10.4,44.9,80.4
