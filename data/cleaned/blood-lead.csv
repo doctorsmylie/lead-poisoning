@@ -1,0 +1,2152 @@
+State,County,Percent of Children with Confirmed BLLs ³5 µg/dL
+AL,Autauga,SD
+AL,Baldwin,SD
+AL,Barbour,SD
+AL,Bibb,SD
+AL,Blount,0.00%
+AL,Bullock,SD
+AL,Butler,SD
+AL,Calhoun,2.00%
+AL,Chambers,SD
+AL,Cherokee,0.00%
+AL,Chilton,SD
+AL,Choctaw,SD
+AL,Clarke,SD
+AL,Clay,SD
+AL,Cleburne,0.00%
+AL,Coffee,1.20%
+AL,Colbert,SD
+AL,Conecuh,SD
+AL,Coosa,0.00%
+AL,Covington,SD
+AL,Crenshaw,6.30%
+AL,Cullman,SD
+AL,Dale,1.30%
+AL,Dallas,SD
+AL,DeKalb,SD
+AL,Elmore,SD
+AL,Escambia,0.00%
+AL,Etowah,3.10%
+AL,Fayette,0.00%
+AL,Franklin,SD
+AL,Geneva,SD
+AL,Greene,0.00%
+AL,Hale,0.00%
+AL,Henry,SD
+AL,Houston,1.00%
+AL,Jackson,SD
+AL,Jefferson,1.60%
+AL,Lamar,0.00%
+AL,Lauderdale,SD
+AL,Lawrence,SD
+AL,Lee,1.30%
+AL,Limestone,SD
+AL,Lowndes,SD
+AL,Macon,SD
+AL,Madison,0.00%
+AL,Marengo,0.00%
+AL,Marion,0.00%
+AL,Marshall,1.30%
+AL,Mobile,1.60%
+AL,Monroe,SD
+AL,Montgomery,1.20%
+AL,Morgan,0.90%
+AL,Perry,0.00%
+AL,Pickens,SD
+AL,Pike,7.90%
+AL,Randolph,SD
+AL,Russell,SD
+AL,St. Clair,SD
+AL,Shelby,SD
+AL,Sumter,0.00%
+AL,Talladega,SD
+AL,Tallapoosa,SD
+AL,Tuscaloosa,0.70%
+AL,Walker,SD
+AL,Washington,0.00%
+AL,Wilcox,SD
+AL,Winston,SD
+AL,Unknown,0.20%
+AK,Aleutians East,0.00%
+AK,Aleutians West,0.00%
+AK,Anchorage Municipality,SD
+AK,Bethel,SD
+AK,Bristol Bay,0.00%
+AK,Denali,0.00%
+AK,Dillingham,SD
+AK,Fairbanks North Star Borough,SD
+AK,Haines,0.00%
+AK,Juneau City and Borough,0.00%
+AK,Kenai Peninsula Borough,0.00%
+AK,Ketchikan Gateway,0.00%
+AK,Kodiak Island,0.00%
+AK,Matanuska-Susitna Borough,SD
+AK,Nome (CA),0.00%
+AK,North Slope,0.00%
+AK,Northwest Arctic,0.00%
+AK,Sitka,0.00%
+AK,Southeast Fairbanks (CA),0.00%
+AK,Yukon-Koyukuk (CA),0.00%
+AK,Unknown,SD
+CT ,Fairfield,1.50%
+CT ,Hartford,1.40%
+CT ,Litchfield,1.90%
+CT ,Middlesex,0.70%
+CT ,New Haven,2.40%
+CT ,New London,2.50%
+CT ,Tolland,0.80%
+CT ,Windham,3.40%
+CT ,Unknown,9.50%
+DE,Kent,1.00%
+DE,New Castle,2.00%
+DE,Sussex,1.20%
+DE,Unknown,0.90%
+WA,District of Columbia,0.70%
+WA,Unknown,0.50%
+FL,Alachua,SD
+FL,Baker,0.00%
+FL,Bay,0.00%
+FL,Bradford,SD
+FL,Brevard,SD
+FL,Broward,0.20%
+FL,Calhoun,0.00%
+FL,Charlotte,SD
+FL,Citrus,0.00%
+FL,Clay,0.00%
+FL,Collier,SD
+FL,Columbia,SD
+FL,DeSoto,0.00%
+FL,Dixie,SD
+FL,Duval,0.50%
+FL,Escambia,SD
+FL,Flagler,0.00%
+FL,Franklin,0.00%
+FL,Gadsden,SD
+FL,Gilchrist,SD
+FL,Glades,0.00%
+FL,Gulf,SD
+FL,Hamilton,0.00%
+FL,Hardee,SD
+FL,Hendry,SD
+FL,Hernando,SD
+FL,Highlands,0.50%
+FL,Hillsborough,0.30%
+FL,Holmes,0.00%
+FL,Indian River,0.00%
+FL,Jackson,SD
+FL,Jefferson,SD
+FL,Lafayette,0.00%
+FL,Lake,0.40%
+FL,Lee,0.30%
+FL,Leon,SD
+FL,Levy,0.00%
+FL,Liberty,0.00%
+FL,Madison,SD
+FL,Manatee,SD
+FL,Marion,SD
+FL,Martin,0.00%
+FL,Miami-Dade,0.20%
+FL,Monroe,SD
+FL,Nassau,0.00%
+FL,Okaloosa,0.00%
+FL,Okeechobee,SD
+FL,Orange,0.50%
+FL,Osceola,SD
+FL,Palm Beach,0.20%
+FL,Pasco,0.20%
+FL,Pinellas,0.20%
+FL,Polk,0.10%
+FL,Putnam,SD
+FL,St. Johns,2.40%
+FL,St. Lucie,0.20%
+FL,Santa Rosa,SD
+FL,Sarasota,SD
+FL,Seminole,0.60%
+FL,Sumter,SD
+FL,Suwannee,0.00%
+FL,Taylor,SD
+FL,Union,0.00%
+FL,Volusia,SD
+FL,Wakulla,0.00%
+FL,Walton,0.00%
+FL,Washington,SD
+FL,Unknown,SD
+GA,Appling,SD
+GA,Atkinson,SD
+GA,Bacon,0.00%
+GA,Baker,0.00%
+GA,Baldwin,SD
+GA,Banks,0.00%
+GA,Barrow,SD
+GA,Bartow,SD
+GA,Ben Hill,SD
+GA,Berrien,0.00%
+GA,Bibb,1.00%
+GA,Bleckley,0.00%
+GA,Brantley,0.00%
+GA,Brooks,SD
+GA,Bryan,SD
+GA,Bulloch,SD
+GA,Burke,SD
+GA,Butts,SD
+GA,Calhoun,0.00%
+GA,Camden,0.00%
+GA,Candler,SD
+GA,Carroll,0.50%
+GA,Catoosa,0.00%
+GA,Charlton,SD
+GA,Chatham,0.80%
+GA,Chattahoochee,0.00%
+GA,Chattooga,SD
+GA,Cherokee,SD
+GA,Clarke,SD
+GA,Clay,SD
+GA,Clayton,0.30%
+GA,Clinch,0.00%
+GA,Cobb,0.40%
+GA,Coffee,0.00%
+GA,Colquitt,SD
+GA,Columbia,SD
+GA,Cook,0.00%
+GA,Coweta,SD
+GA,Crawford,SD
+GA,Crisp,0.00%
+GA,Dade,0.00%
+GA,Dawson,0.00%
+GA,Decatur,0.00%
+GA,DeKalb,0.70%
+GA,Dodge,0.00%
+GA,Dooly,0.00%
+GA,Dougherty,SD
+GA,Douglas,SD
+GA,Early,0.00%
+GA,Echols,0.00%
+GA,Effingham,SD
+GA,Elbert,SD
+GA,Emanuel,SD
+GA,Evans,0.00%
+GA,Fannin,0.00%
+GA,Fayette,SD
+GA,Floyd,2.60%
+GA,Forsyth,0.70%
+GA,Franklin,0.00%
+GA,Fulton,0.50%
+GA,Gilmer,0.00%
+GA,Glascock,0.00%
+GA,Glynn,SD
+GA,Gordon,0.00%
+GA,Grady,0.00%
+GA,Greene,0.00%
+GA,Gwinnett,0.30%
+GA,Habersham,SD
+GA,Hall,SD
+GA,Hancock,0.00%
+GA,Haralson,SD
+GA,Harris,SD
+GA,Hart,0.00%
+GA,Heard,0.00%
+GA,Henry,SD
+GA,Houston,0.00%
+GA,Irwin,SD
+GA,Jackson,SD
+GA,Jasper,SD
+GA,Jeff Davis,0.00%
+GA,Jefferson,SD
+GA,Jenkins,SD
+GA,Johnson,0.00%
+GA,Jones,0.00%
+GA,Lamar,0.00%
+GA,Lanier,0.00%
+GA,Laurens,SD
+GA,Lee,0.00%
+GA,Liberty,SD
+GA,Lincoln,0.00%
+GA,Long,SD
+GA,Lowndes,0.00%
+GA,Lumpkin,SD
+GA,McDuffie,SD
+GA,McIntosh,0.00%
+GA,Macon,SD
+GA,Madison,SD
+GA,Marion,0.00%
+GA,Meriwether,SD
+GA,Miller,0.00%
+GA,Mitchell,SD
+GA,Monroe,0.00%
+GA,Montgomery,0.00%
+GA,Morgan,0.00%
+GA,Murray,SD
+GA,Muscogee,0.30%
+GA,Newton,0.50%
+GA,Oconee,SD
+GA,Oglethorpe,SD
+GA,Paulding,0.00%
+GA,Peach,SD
+GA,Pickens,SD
+GA,Pierce,SD
+GA,Pike,0.00%
+GA,Polk,SD
+GA,Pulaski,0.00%
+GA,Putnam,0.00%
+GA,Quitman,0.00%
+GA,Rabun,0.00%
+GA,Randolph,0.00%
+GA,Richmond,1.60%
+GA,Rockdale,SD
+GA,Schley,0.00%
+GA,Screven,SD
+GA,Seminole,0.00%
+GA,Spalding,1.10%
+GA,Stephens,SD
+GA,Stewart,0.00%
+GA,Sumter,SD
+GA,Talbot,0.00%
+GA,Taliaferro,0.00%
+GA,Tattnall,SD
+GA,Taylor,SD
+GA,Telfair,SD
+GA,Terrell,6.70%
+GA,Thomas,SD
+GA,Tift,0.00%
+GA,Toombs,SD
+GA,Towns,0.00%
+GA,Treutlen,0.00%
+GA,Troup,SD
+GA,Turner,SD
+GA,Twiggs,0.00%
+GA,Union,0.00%
+GA,Upson,SD
+GA,Walker,1.00%
+GA,Walton,SD
+GA,Ware,SD
+GA,Warren,SD
+GA,Washington,SD
+GA,Wayne,SD
+GA,Webster,SD
+GA,Wheeler,0.00%
+GA,White,0.00%
+GA,Whitfield,0.70%
+GA,Wilcox,0.00%
+GA,Wilkes,SD
+GA,Wilkinson,SD
+GA,Worth,0.00%
+GA,Unknown,0.60%
+HI ,Hawaii,1.10%
+HI ,Honolulu,0.20%
+HI ,Kalawao,0.00%
+HI ,Kauai,SD
+HI ,Maui,0.60%
+HI ,Unknown,0.00%
+IL,Adams,5.30%
+IL,Alexander,SD
+IL,Bond,SD
+IL,Boone,2.60%
+IL,Brown,SD
+IL,Bureau,4.80%
+IL,Calhoun,0.00%
+IL,Carroll,4.20%
+IL,Cass,5.80%
+IL,Champaign,1.00%
+IL,Christian,2.30%
+IL,Clark,SD
+IL,Clay,SD
+IL,Clinton,SD
+IL,Coles,2.20%
+IL,Cook,1.50%
+IL,Crawford,SD
+IL,Cumberland,SD
+IL,DeKalb,1.50%
+IL,De Witt,SD
+IL,Douglas,SD
+IL,DuPage,0.60%
+IL,Edgar,4.10%
+IL,Edwards,0.00%
+IL,Effingham,SD
+IL,Fayette,SD
+IL,Ford,5.60%
+IL,Franklin,SD
+IL,Fulton,3.00%
+IL,Gallatin,SD
+IL,Greene,6.70%
+IL,Grundy,SD
+IL,Hamilton,SD
+IL,Hancock,SD
+IL,Hardin,0.00%
+IL,Henderson,SD
+IL,Henry,3.00%
+IL,Iroquois,SD
+IL,Jackson,1.50%
+IL,Jasper,SD
+IL,Jefferson,SD
+IL,Jersey,SD
+IL,Jo Daviess,5.50%
+IL,Johnson,0.00%
+IL,Kane,2.10%
+IL,Kankakee,1.60%
+IL,Kendall,SD
+IL,Knox,4.50%
+IL,Lake,0.60%
+IL,La Salle,4.40%
+IL,Lawrence,SD
+IL,Lee,2.90%
+IL,Livingston,1.80%
+IL,Logan,3.90%
+IL,McDonough,6.30%
+IL,McHenry,0.30%
+IL,McLean,1.60%
+IL,Macon,3.40%
+IL,Macoupin,1.90%
+IL,Madison,1.60%
+IL,Marion,SD
+IL,Marshall,0.00%
+IL,Mason,SD
+IL,Massac,SD
+IL,Menard,SD
+IL,Mercer,SD
+IL,Monroe,SD
+IL,Montgomery,SD
+IL,Morgan,2.00%
+IL,Moultrie,4.30%
+IL,Ogle,2.50%
+IL,Peoria,2.00%
+IL,Perry,SD
+IL,Piatt,SD
+IL,Pike,SD
+IL,Pope,0.00%
+IL,Pulaski,SD
+IL,Putnam,0.00%
+IL,Randolph,SD
+IL,Richland,SD
+IL,Rock Island,2.60%
+IL,St. Clair,0.70%
+IL,Saline,SD
+IL,Sangamon,1.60%
+IL,Schuyler,SD
+IL,Scott,SD
+IL,Shelby,SD
+IL,Stark,SD
+IL,Stephenson,9.20%
+IL,Tazewell,0.70%
+IL,Union,5.70%
+IL,Vermilion,3.10%
+IL,Wabash,0.00%
+IL,Warren,6.80%
+IL,Washington,0.00%
+IL,Wayne,4.00%
+IL,White,SD
+IL,Whiteside,1.80%
+IL,Will,0.60%
+IL,Williamson,SD
+IL,Winnebago,3.70%
+IL,Woodford,SD
+IL,Unknown,1.70%
+IA,Adair,SD
+IA,Adams,0.00%
+IA,Allamakee,3.40%
+IA,Appanoose,SD
+IA,Audubon,SD
+IA,Benton,2.00%
+IA,Black Hawk,1.20%
+IA,Boone,SD
+IA,Bremer,SD
+IA,Buchanan,SD
+IA,Buena Vista,1.10%
+IA,Butler,SD
+IA,Calhoun,SD
+IA,Carroll,SD
+IA,Cass,4.20%
+IA,Cedar,SD
+IA,Cerro Gordo,1.20%
+IA,Cherokee,3.40%
+IA,Chickasaw,SD
+IA,Clarke,SD
+IA,Clay,SD
+IA,Clayton,2.60%
+IA,Clinton,1.70%
+IA,Crawford,SD
+IA,Dallas,0.30%
+IA,Davis,SD
+IA,Decatur,SD
+IA,Delaware,2.20%
+IA,Des Moines,4.30%
+IA,Dickinson,SD
+IA,Dubuque,2.70%
+IA,Emmet,0.00%
+IA,Fayette,3.40%
+IA,Floyd,3.20%
+IA,Franklin,SD
+IA,Fremont,SD
+IA,Greene,SD
+IA,Grundy,SD
+IA,Guthrie,SD
+IA,Hamilton,1.80%
+IA,Hancock,SD
+IA,Hardin,3.30%
+IA,Harrison,SD
+IA,Henry,2.00%
+IA,Howard,SD
+IA,Humboldt,SD
+IA,Ida,SD
+IA,Iowa,3.40%
+IA,Jackson,1.70%
+IA,Jasper,1.50%
+IA,Jefferson,4.10%
+IA,Johnson,SD
+IA,Jones,SD
+IA,Keokuk,SD
+IA,Kossuth,SD
+IA,Lee,5.70%
+IA,Linn,1.50%
+IA,Louisa,0.00%
+IA,Lucas,SD
+IA,Lyon,SD
+IA,Madison,SD
+IA,Mahaska,SD
+IA,Marion,SD
+IA,Marshall,2.00%
+IA,Mills,SD
+IA,Mitchell,3.70%
+IA,Monona,0.00%
+IA,Monroe,SD
+IA,Montgomery,SD
+IA,Muscatine,2.30%
+IA,O'Brien,SD
+IA,Osceola,0.00%
+IA,Page,SD
+IA,Palo Alto,SD
+IA,Plymouth,SD
+IA,Pocahontas,SD
+IA,Polk,0.40%
+IA,Pottawattamie,1.00%
+IA,Poweshiek,SD
+IA,Ringgold,0.00%
+IA,Sac,SD
+IA,Scott,1.80%
+IA,Shelby,SD
+IA,Sioux,1.00%
+IA,Story,0.90%
+IA,Tama,4.10%
+IA,Taylor,0.00%
+IA,Union,3.10%
+IA,Van Buren,SD
+IA,Wapello,1.50%
+IA,Warren,SD
+IA,Washington,SD
+IA,Wayne,9.90%
+IA,Webster,SD
+IA,Winnebago,SD
+IA,Winneshiek,0.00%
+IA,Woodbury,1.30%
+IA,Worth,SD
+IA,Wright,5.00%
+IA,Unknown,SD
+KS,Allen,SD
+KS,Anderson,SD
+KS,Atchison,9.00%
+KS,Barber,0.00%
+KS,Barton,SD
+KS,Bourbon,SD
+KS,Brown,SD
+KS,Butler,SD
+KS,Chase,SD
+KS,Chautauqua,SD
+KS,Cherokee,2.90%
+KS,Cheyenne,SD
+KS,Clark,SD
+KS,Clay,SD
+KS,Cloud,SD
+KS,Coffey,SD
+KS,Comanche,0.00%
+KS,Cowley,2.70%
+KS,Crawford,2.00%
+KS,Decatur,0.00%
+KS,Dickinson,SD
+KS,Doniphan,SD
+KS,Douglas,SD
+KS,Edwards,SD
+KS,Elk,0.00%
+KS,Ellis,2.50%
+KS,Ellsworth,SD
+KS,Finney,SD
+KS,Ford,0.90%
+KS,Franklin,SD
+KS,Geary,SD
+KS,Gove,0.00%
+KS,Graham,SD
+KS,Grant,0.00%
+KS,Gray,SD
+KS,Greeley,0.00%
+KS,Greenwood,0.00%
+KS,Hamilton,0.00%
+KS,Harper,SD
+KS,Harvey,SD
+KS,Haskell,0.00%
+KS,Hodgeman,0.00%
+KS,Jackson,SD
+KS,Jefferson,0.00%
+KS,Jewell,0.00%
+KS,Johnson,0.50%
+KS,Kearny,SD
+KS,Kingman,SD
+KS,Kiowa,0.00%
+KS,Labette,5.80%
+KS,Lane,0.00%
+KS,Leavenworth,1.30%
+KS,Lincoln,SD
+KS,Linn,SD
+KS,Logan,0.00%
+KS,Lyon,3.40%
+KS,McPherson,2.70%
+KS,Marion,SD
+KS,Marshall,SD
+KS,Meade,0.00%
+KS,Miami,SD
+KS,Mitchell,0.00%
+KS,Montgomery,7.30%
+KS,Morris,SD
+KS,Morton,0.00%
+KS,Nemaha,SD
+KS,Neosho,SD
+KS,Ness,0.00%
+KS,Norton,SD
+KS,Osage,0.00%
+KS,Osborne,SD
+KS,Ottawa,SD
+KS,Pawnee,SD
+KS,Phillips,SD
+KS,Pottawatomie,SD
+KS,Pratt,SD
+KS,Rawlins,SD
+KS,Reno,3.10%
+KS,Republic,0.00%
+KS,Rice,8.60%
+KS,Riley,SD
+KS,Rooks,SD
+KS,Rush,SD
+KS,Russell,0.00%
+KS,Saline,5.90%
+KS,Scott,0.00%
+KS,Sedgwick,1.30%
+KS,Seward,SD
+KS,Shawnee,1.50%
+KS,Sheridan,SD
+KS,Sherman,SD
+KS,Smith,0.00%
+KS,Stafford,0.00%
+KS,Stanton,0.00%
+KS,Stevens,SD
+KS,Sumner,0.00%
+KS,Thomas,SD
+KS,Trego,0.00%
+KS,Wabaunsee,SD
+KS,Wallace,0.00%
+KS,Washington,0.00%
+KS,Wichita,0.00%
+KS,Wilson,SD
+KS,Woodson,SD
+KS,Wyandotte,1.60%
+KS,Unknown,1.50%
+LA,Acadia,SD
+LA,Allen,0.00%
+LA,Ascension,SD
+LA,Assumption,SD
+LA,Avoyelles,SD
+LA,Beauregard,SD
+LA,Bienville,0.00%
+LA,Bossier,0.00%
+LA,Caddo,1.00%
+LA,Calcasieu,SD
+LA,Caldwell,0.00%
+LA,Cameron,0.00%
+LA,Catahoula,0.00%
+LA,Claiborne,SD
+LA,Concordia,SD
+LA,De Soto,0.00%
+LA,East Baton Rouge,SD
+LA,East Carroll,0.00%
+LA,East Feliciana,SD
+LA,Evangeline,SD
+LA,Franklin,0.00%
+LA,Grant,0.00%
+LA,Iberia,0.00%
+LA,Iberville,0.00%
+LA,Jackson,0.00%
+LA,Jefferson,0.30%
+LA,Jefferson Davis,SD
+LA,Lafayette,SD
+LA,Lafourche,0.00%
+LA,La Salle,0.00%
+LA,Lincoln,SD
+LA,Livingston,0.00%
+LA,Madison,0.00%
+LA,Morehouse,SD
+LA,Natchitoches,0.00%
+LA,Orleans,0.70%
+LA,Ouachita,1.10%
+LA,Plaquemines,0.00%
+LA,Pointe Coupee,SD
+LA,Rapides,SD
+LA,Red River,0.00%
+LA,Richland,SD
+LA,Sabine,0.00%
+LA,St. Bernard,0.00%
+LA,St. Charles,0.00%
+LA,St. Helena,0.00%
+LA,St. James,0.00%
+LA,St. Landry,SD
+LA,St. Tammany,SD
+LA,Tangipahoa,SD
+LA,Tensas,0.00%
+LA,Terrebonne,SD
+LA,Union,SD
+LA,Vermilion,0.00%
+LA,Vernon,0.00%
+LA,Washington,SD
+LA,Webster,0.00%
+LA,West Baton Rouge,0.00%
+LA,West Carroll,0.00%
+LA,West Feliciana,0.00%
+LA,Winn,0.00%
+LA,Unknown,0.50%
+MD,Allegany,1.50%
+MD,Anne Arundel,0.40%
+MD,Baltimore,0.70%
+MD,Calvert,0.60%
+MD,Caroline,1.30%
+MD,Carroll,0.40%
+MD,Cecil,0.70%
+MD,Charles,0.40%
+MD,Dorchester,1.30%
+MD,Frederick,0.60%
+MD,Garrett,SD
+MD,Harford,0.20%
+MD,Howard,0.80%
+MD,Kent,SD
+MD,Montgomery,0.50%
+MD,Prince George's,0.80%
+MD,Queen Anne's,SD
+MD,St. Mary's,SD
+MD,Somerset,1.70%
+MD,Talbot,1.60%
+MD,Washington,1.60%
+MD,Wicomico,0.90%
+MD,Worcester,SD
+MD,Baltimore (city),3.40%
+MD,Unknown,4.10%
+MI,Alcona,0.00%
+MI,Alger,0.00%
+MI,Allegan,1.30%
+MI,Alpena,SD
+MI,Antrim,0.00%
+MI,Arenac,0.00%
+MI,Baraga,0.00%
+MI,Barry,SD
+MI,Bay,0.80%
+MI,Benzie,0.00%
+MI,Berrien,2.80%
+MI,Branch,3.60%
+MI,Calhoun,2.90%
+MI,Cass,1.90%
+MI,Charlevoix,0.00%
+MI,Cheboygan,SD
+MI,Chippewa,0.00%
+MI,Clare,0.00%
+MI,Clinton,SD
+MI,Crawford,0.00%
+MI,Delta,SD
+MI,Dickinson,SD
+MI,Eaton,1.50%
+MI,Emmet,0.00%
+MI,Genesee,0.50%
+MI,Gladwin,0.00%
+MI,Gogebic,SD
+MI,Grand Traverse,SD
+MI,Gratiot,SD
+MI,Hillsdale,3.40%
+MI,Houghton,1.80%
+MI,Huron,SD
+MI,Ingham,2.80%
+MI,Ionia,1.20%
+MI,Iosco,0.00%
+MI,Iron,SD
+MI,Isabella,SD
+MI,Jackson,0.90%
+MI,Kalamazoo,1.10%
+MI,Kalkaska,0.00%
+MI,Kent,1.30%
+MI,Keweenaw,0.00%
+MI,Lake,0.00%
+MI,Lapeer,SD
+MI,Leelanau,0.00%
+MI,Lenawee,2.80%
+MI,Livingston,SD
+MI,Luce,SD
+MI,Mackinac,SD
+MI,Macomb,0.20%
+MI,Manistee,SD
+MI,Marquette,SD
+MI,Mason,SD
+MI,Mecosta,SD
+MI,Menominee,0.00%
+MI,Midland,SD
+MI,Missaukee,SD
+MI,Monroe,0.70%
+MI,Montcalm,1.50%
+MI,Montmorency,0.00%
+MI,Muskegon,1.50%
+MI,Newaygo,0.00%
+MI,Oakland,0.50%
+MI,Oceana,SD
+MI,Ogemaw,0.00%
+MI,Ontonagon,0.00%
+MI,Osceola,SD
+MI,Oscoda,0.00%
+MI,Otsego,SD
+MI,Ottawa,0.60%
+MI,Presque Isle,0.00%
+MI,Roscommon,0.00%
+MI,Saginaw,1.10%
+MI,St. Clair,1.40%
+MI,St. Joseph,5.80%
+MI,Sanilac,SD
+MI,Schoolcraft,0.00%
+MI,Shiawassee,SD
+MI,Tuscola,SD
+MI,Van Buren,1.40%
+MI,Washtenaw,0.40%
+MI,Wayne,2.30%
+MI,Wexford,SD
+MI,Unknown,3.30%
+MS,Adams,SD
+MS,Alcorn,SD
+MS,Amite,0.00%
+MS,Attala,0.00%
+MS,Benton,SD
+MS,Bolivar,SD
+MS,Calhoun,SD
+MS,Carroll,SD
+MS,Chickasaw,0.00%
+MS,Choctaw,0.00%
+MS,Claiborne,0.00%
+MS,Clarke,SD
+MS,Clay,0.00%
+MS,Coahoma,SD
+MS,Copiah,SD
+MS,Covington,SD
+MS,DeSoto,0.00%
+MS,Forrest,SD
+MS,Franklin,SD
+MS,George,SD
+MS,Greene,0.00%
+MS,Grenada,SD
+MS,Hancock,0.00%
+MS,Harrison,0.00%
+MS,Hinds,0.40%
+MS,Holmes,SD
+MS,Humphreys,0.00%
+MS,Issaquena,0.00%
+MS,Itawamba,0.00%
+MS,Jackson,0.00%
+MS,Jasper,SD
+MS,Jefferson,0.00%
+MS,Jefferson Davis,0.00%
+MS,Jones,SD
+MS,Kemper,SD
+MS,Lafayette,SD
+MS,Lamar,SD
+MS,Lauderdale,2.00%
+MS,Lawrence,SD
+MS,Leake,SD
+MS,Lee,SD
+MS,Leflore,2.30%
+MS,Lincoln,SD
+MS,Lowndes,SD
+MS,Madison,SD
+MS,Marion,SD
+MS,Marshall,SD
+MS,Monroe,0.00%
+MS,Montgomery,SD
+MS,Neshoba,4.00%
+MS,Newton,SD
+MS,Noxubee,0.00%
+MS,Oktibbeha,SD
+MS,Panola,SD
+MS,Pearl River,SD
+MS,Perry,0.00%
+MS,Pike,2.40%
+MS,Pontotoc,0.00%
+MS,Prentiss,SD
+MS,Quitman,SD
+MS,Rankin,SD
+MS,Scott,SD
+MS,Sharkey,0.00%
+MS,Simpson,SD
+MS,Smith,0.00%
+MS,Stone,0.00%
+MS,Sunflower,SD
+MS,Tallahatchie,SD
+MS,Tate,SD
+MS,Tippah,0.00%
+MS,Tishomingo,0.00%
+MS,Tunica,0.00%
+MS,Union,0.00%
+MS,Walthall,SD
+MS,Warren,SD
+MS,Washington,SD
+MS,Wayne,SD
+MS,Webster,SD
+MS,Wilkinson,0.00%
+MS,Winston,SD
+MS,Yalobusha,SD
+MS,Yazoo,2.10%
+MS,Unknown,0.60%
+MO,Adair,SD
+MO,Andrew,SD
+MO,Atchison,SD
+MO,Audrain,SD
+MO,Barry,SD
+MO,Barton,SD
+MO,Bates,SD
+MO,Benton,SD
+MO,Bollinger,SD
+MO,Boone,SD
+MO,Buchanan,5.50%
+MO,Butler,SD
+MO,Caldwell,SD
+MO,Callaway,SD
+MO,Camden,SD
+MO,Cape Girardeau,SD
+MO,Carroll,SD
+MO,Carter,SD
+MO,Cass,SD
+MO,Cedar,SD
+MO,Chariton,0.00%
+MO,Christian,SD
+MO,Clark,0.00%
+MO,Clay,0.80%
+MO,Clinton,SD
+MO,Cole,1.20%
+MO,Cooper,SD
+MO,Crawford,3.30%
+MO,Dade,SD
+MO,Dallas,0.00%
+MO,Daviess,SD
+MO,DeKalb,SD
+MO,Dent,5.80%
+MO,Douglas,SD
+MO,Dunklin,SD
+MO,Franklin,1.20%
+MO,Gasconade,SD
+MO,Gentry,0.00%
+MO,Greene,1.40%
+MO,Grundy,SD
+MO,Harrison,SD
+MO,Henry,SD
+MO,Hickory,0.00%
+MO,Holt,SD
+MO,Howard,SD
+MO,Howell,SD
+MO,Iron,12.00%
+MO,Jackson,2.00%
+MO,Jasper,1.40%
+MO,Jefferson,0.50%
+MO,Johnson,SD
+MO,Knox,SD
+MO,Laclede,SD
+MO,Lafayette,SD
+MO,Lawrence,SD
+MO,Lewis,SD
+MO,Lincoln,SD
+MO,Linn,SD
+MO,Livingston,SD
+MO,McDonald,0.00%
+MO,Macon,SD
+MO,Madison,SD
+MO,Maries,SD
+MO,Marion,5.90%
+MO,Mercer,SD
+MO,Miller,0.00%
+MO,Mississippi,SD
+MO,Moniteau,SD
+MO,Monroe,SD
+MO,Montgomery,SD
+MO,Morgan,SD
+MO,New Madrid,SD
+MO,Newton,SD
+MO,Nodaway,3.40%
+MO,Oregon,SD
+MO,Osage,0.00%
+MO,Ozark,0.00%
+MO,Pemiscot,SD
+MO,Perry,0.00%
+MO,Pettis,1.90%
+MO,Phelps,SD
+MO,Pike,SD
+MO,Platte,3.20%
+MO,Polk,SD
+MO,Pulaski,SD
+MO,Putnam,0.00%
+MO,Ralls,SD
+MO,Randolph,SD
+MO,Ray,SD
+MO,Reynolds,SD
+MO,Ripley,SD
+MO,St. Charles,SD
+MO,St. Clair,SD
+MO,St. Francois,3.80%
+MO,St. Louis,1.10%
+MO,Saline,2.90%
+MO,Schuyler,0.00%
+MO,Scotland,SD
+MO,Scott,1.10%
+MO,Shannon,SD
+MO,Shelby,SD
+MO,Stoddard,SD
+MO,Stone,0.00%
+MO,Sullivan,SD
+MO,Taney,SD
+MO,Texas,SD
+MO,Vernon,SD
+MO,Warren,SD
+MO,Washington,6.50%
+MO,Wayne,0.00%
+MO,Webster,SD
+MO,Worth,0.00%
+MO,Wright,SD
+MO,St. Louis,4.60%
+MO,Unknown,SD
+NV,Churchill,0.00%
+NV,Clark,0.30%
+NV,Douglas,0.00%
+NV,Elko,SD
+NV,Eureka,0.00%
+NV,Humboldt,0.00%
+NV,Lander,0.00%
+NV,Lincoln,0.00%
+NV,Lyon,0.00%
+NV,Mineral,0.00%
+NV,Pershing,0.00%
+NV,Washoe,SD
+NV,White Pine,0.00%
+NV,Carson City,SD
+NV,Unknown,0.00%
+NH,Belknap,2.00%
+NH,Carroll,SD
+NH,Cheshire,1.80%
+NH,Coos,SD
+NH,Grafton,1.40%
+NH,Hillsborough,2.70%
+NH,Merrimack,1.50%
+NH,Rockingham,0.50%
+NH,Strafford,2.80%
+NH,Sullivan,2.70%
+NH,Unknown,1.80%
+NJ,Atlantic,2.00%
+NJ,Bergen,1.50%
+NJ,Burlington,0.90%
+NJ,Camden,1.70%
+NJ,Cape May,SD
+NJ,Cumberland,5.40%
+NJ,Essex,4.60%
+NJ,Gloucester,1.50%
+NJ,Hudson,2.30%
+NJ,Hunterdon,1.20%
+NJ,Mercer,5.00%
+NJ,Middlesex,1.90%
+NJ,Monmouth,1.60%
+NJ,Morris,1.70%
+NJ,Ocean,0.60%
+NJ,Passaic,3.60%
+NJ,Salem,6.80%
+NJ,Somerset,1.20%
+NJ,Sussex,SD
+NJ,Union,3.20%
+NJ,Warren,2.30%
+NJ,Unknown,2.90%
+NY,Albany,4.40%
+NY,Allegany,4.70%
+NY,Bronx,0.90%
+NY,Broome,2.60%
+NY,Cattaraugus,7.10%
+NY,Cayuga,4.90%
+NY,Chautauqua,7.20%
+NY,Chemung,3.00%
+NY,Chenango,5.80%
+NY,Clinton,1.10%
+NY,Columbia,4.60%
+NY,Cortland,5.40%
+NY,Delaware,6.60%
+NY,Dutchess,1.70%
+NY,Erie,5.10%
+NY,Essex,SD
+NY,Franklin,1.60%
+NY,Fulton,10.20%
+NY,Genesee,2.30%
+NY,Greene,3.20%
+NY,Hamilton,SD
+NY,Herkimer,8.30%
+NY,Jefferson,2.60%
+NY,Kings,1.00%
+NY,Lewis,5.80%
+NY,Livingston,3.10%
+NY,Madison,3.30%
+NY,Monroe,2.40%
+NY,Montgomery,8.70%
+NY,Nassau,0.50%
+NY,New York,0.50%
+NY,Niagara,2.40%
+NY,Oneida,8.40%
+NY,Onondaga,4.60%
+NY,Ontario,2.30%
+NY,Orange,1.70%
+NY,Orleans,5.40%
+NY,Oswego,1.90%
+NY,Otsego,4.60%
+NY,Putnam,0.70%
+NY,Queens,0.90%
+NY,Rensselaer,5.00%
+NY,Richmond,0.70%
+NY,Rockland,0.70%
+NY,St. Lawrence,4.80%
+NY,Saratoga,1.00%
+NY,Schenectady,3.40%
+NY,Schoharie,4.60%
+NY,Schuyler,4.00%
+NY,Seneca,2.40%
+NY,Steuben,1.60%
+NY,Suffolk,0.40%
+NY,Sullivan,1.60%
+NY,Tioga,2.20%
+NY,Tompkins,1.60%
+NY,Ulster,2.90%
+NY,Warren,2.60%
+NY,Washington,7.40%
+NY,Wayne,2.10%
+NY,Westchester,1.40%
+NY,Wyoming,4.80%
+NY,Yates,6.20%
+NY,Unknown,1.30%
+NC,Alamance,0.60%
+NC,Alexander,0.00%
+NC,Alleghany,SD
+NC,Anson,0.00%
+NC,Ashe,0.00%
+NC,Avery,SD
+NC,Beaufort,SD
+NC,Bertie,SD
+NC,Bladen,SD
+NC,Brunswick,SD
+NC,Buncombe,0.30%
+NC,Burke,SD
+NC,Cabarrus,0.50%
+NC,Caldwell,SD
+NC,Camden,SD
+NC,Carteret,SD
+NC,Caswell,SD
+NC,Catawba,SD
+NC,Chatham,SD
+NC,Cherokee,0.00%
+NC,Chowan,SD
+NC,Clay,0.00%
+NC,Cleveland,SD
+NC,Columbus,SD
+NC,Craven,SD
+NC,Cumberland,0.30%
+NC,Currituck,0.00%
+NC,Dare,0.00%
+NC,Davidson,0.50%
+NC,Davie,SD
+NC,Duplin,SD
+NC,Durham,0.30%
+NC,Edgecombe,1.00%
+NC,Forsyth,0.50%
+NC,Franklin,0.80%
+NC,Gaston,0.30%
+NC,Gates,0.00%
+NC,Graham,0.00%
+NC,Granville,SD
+NC,Greene,0.00%
+NC,Guilford,0.20%
+NC,Halifax,0.80%
+NC,Harnett,0.60%
+NC,Haywood,SD
+NC,Henderson,SD
+NC,Hertford,SD
+NC,Hoke,SD
+NC,Hyde,0.00%
+NC,Iredell,0.50%
+NC,Jackson,SD
+NC,Johnston,0.40%
+NC,Jones,0.00%
+NC,Lee,0.60%
+NC,Lenoir,SD
+NC,Lincoln,SD
+NC,McDowell,SD
+NC,Macon,0.00%
+NC,Madison,0.00%
+NC,Martin,SD
+NC,Mecklenburg,0.60%
+NC,Mitchell,SD
+NC,Montgomery,SD
+NC,Moore,SD
+NC,Nash,0.50%
+NC,New Hanover,0.40%
+NC,Northampton,SD
+NC,Onslow,0.40%
+NC,Orange,SD
+NC,Pamlico,0.00%
+NC,Pasquotank,SD
+NC,Pender,0.00%
+NC,Perquimans,SD
+NC,Person,SD
+NC,Pitt,0.30%
+NC,Polk,0.00%
+NC,Randolph,0.30%
+NC,Richmond,1.10%
+NC,Robeson,0.30%
+NC,Rockingham,1.10%
+NC,Rowan,0.50%
+NC,Rutherford,SD
+NC,Sampson,SD
+NC,Scotland,SD
+NC,Stanly,SD
+NC,Stokes,SD
+NC,Surry,0.90%
+NC,Swain,SD
+NC,Transylvania,0.00%
+NC,Tyrrell,SD
+NC,Union,SD
+NC,Vance,SD
+NC,Wake,0.30%
+NC,Warren,SD
+NC,Washington,SD
+NC,Watauga,SD
+NC,Wayne,0.40%
+NC,Wilkes,SD
+NC,Wilson,1.10%
+NC,Yadkin,SD
+NC,Yancey,SD
+NC,Unknown,39.00%
+OK,Adair,0.00%
+OK,Alfalfa,SD
+OK,Atoka,0.00%
+OK,Beaver,0.00%
+OK,Beckham,SD
+OK,Blaine,0.00%
+OK,Bryan,1.30%
+OK,Caddo,SD
+OK,Canadian,SD
+OK,Carter,SD
+OK,Cherokee,SD
+OK,Choctaw,0.00%
+OK,Cimarron,0.00%
+OK,Cleveland,SD
+OK,Coal,SD
+OK,Comanche,0.80%
+OK,Cotton,0.00%
+OK,Craig,0.00%
+OK,Creek,SD
+OK,Custer,SD
+OK,Delaware,SD
+OK,Dewey,0.00%
+OK,Ellis,SD
+OK,Garfield,SD
+OK,Garvin,SD
+OK,Grady,SD
+OK,Grant,SD
+OK,Greer,0.00%
+OK,Harmon,0.00%
+OK,Harper,0.00%
+OK,Haskell,0.00%
+OK,Hughes,0.00%
+OK,Jackson,SD
+OK,Jefferson,SD
+OK,Johnston,SD
+OK,Kay,2.20%
+OK,Kingfisher,0.00%
+OK,Kiowa,SD
+OK,Latimer,0.00%
+OK,Le Flore,SD
+OK,Lincoln,0.00%
+OK,Logan,SD
+OK,Love,SD
+OK,McClain,SD
+OK,McCurtain,SD
+OK,McIntosh,SD
+OK,Major,SD
+OK,Marshall,SD
+OK,Mayes,SD
+OK,Murray,SD
+OK,Muskogee,1.60%
+OK,Noble,0.00%
+OK,Nowata,0.00%
+OK,Okfuskee,SD
+OK,Oklahoma,0.60%
+OK,Okmulgee,SD
+OK,Osage,SD
+OK,Ottawa,SD
+OK,Pawnee,SD
+OK,Payne,0.90%
+OK,Pittsburg,SD
+OK,Pontotoc,SD
+OK,Pottawatomie,2.80%
+OK,Pushmataha,SD
+OK,Roger Mills,0.00%
+OK,Rogers,SD
+OK,Seminole,SD
+OK,Sequoyah,SD
+OK,Stephens,0.00%
+OK,Texas,0.00%
+OK,Tillman,0.00%
+OK,Tulsa,0.80%
+OK,Wagoner,SD
+OK,Washington,SD
+OK,Washita,0.00%
+OK,Woods,SD
+OK,Woodward,SD
+OK,Unknown,0.70%
+RI ,Bristol,SD
+RI ,Kent,1.10%
+RI ,Newport,1.90%
+RI ,Providence,3.40%
+RI ,Washington,1.00%
+RI ,Unknown,2.00%
+SC,Abbeville,SD
+SC,Aiken,1.30%
+SC,Allendale,0.00%
+SC,Anderson,1.00%
+SC,Bamberg,SD
+SC,Barnwell,SD
+SC,Beaufort,SD
+SC,Berkeley,0.30%
+SC,Calhoun,SD
+SC,Charleston,0.80%
+SC,Cherokee,SD
+SC,Chester,SD
+SC,Chesterfield,SD
+SC,Clarendon,1.70%
+SC,Colleton,SD
+SC,Darlington,1.60%
+SC,Dillon,SD
+SC,Dorchester,SD
+SC,Edgefield,SD
+SC,Fairfield,SD
+SC,Florence,2.30%
+SC,Georgetown,0.00%
+SC,Greenville,0.40%
+SC,Greenwood,1.70%
+SC,Hampton,0.00%
+SC,Horry,SD
+SC,Jasper,SD
+SC,Kershaw,SD
+SC,Lancaster,0.90%
+SC,Laurens,2.10%
+SC,Lee,SD
+SC,Lexington,0.70%
+SC,McCormick,SD
+SC,Marion,2.50%
+SC,Marlboro,3.70%
+SC,Newberry,1.30%
+SC,Oconee,SD
+SC,Orangeburg,SD
+SC,Pickens,SD
+SC,Richland,0.40%
+SC,Saluda,SD
+SC,Spartanburg,0.50%
+SC,Sumter,1.60%
+SC,Union,SD
+SC,Williamsburg,SD
+SC,York,0.30%
+SC,Unknown,1.50%
+WV,Barbour,SD
+WV,Berkeley,SD
+WV,Boone,0.00%
+WV,Braxton,SD
+WV,Brooke,0.00%
+WV,Cabell,7.40%
+WV,Calhoun,0.00%
+WV,Clay,0.00%
+WV,Doddridge,SD
+WV,Fayette,SD
+WV,Gilmer,0.00%
+WV,Grant,0.00%
+WV,Greenbrier,0.00%
+WV,Hampshire,SD
+WV,Hancock,0.00%
+WV,Hardy,SD
+WV,Harrison,SD
+WV,Jackson,SD
+WV,Jefferson,0.00%
+WV,Kanawha,SD
+WV,Lewis,SD
+WV,Lincoln,SD
+WV,Logan,SD
+WV,McDowell,SD
+WV,Marion,2.80%
+WV,Marshall,SD
+WV,Mason,SD
+WV,Mercer,2.30%
+WV,Mineral,SD
+WV,Mingo,SD
+WV,Monongalia,SD
+WV,Monroe,0.00%
+WV,Morgan,SD
+WV,Nicholas,0.00%
+WV,Ohio,SD
+WV,Pendleton,SD
+WV,Pleasants,SD
+WV,Pocahontas,0.00%
+WV,Preston,SD
+WV,Putnam,0.00%
+WV,Raleigh,1.50%
+WV,Randolph,SD
+WV,Ritchie,0.00%
+WV,Roane,0.00%
+WV,Summers,SD
+WV,Taylor,SD
+WV,Tucker,0.00%
+WV,Tyler,SD
+WV,Upshur,SD
+WV,Wayne,0.00%
+WV,Webster,SD
+WV,Wetzel,SD
+WV,Wirt,0.00%
+WV,Wood,3.80%
+WV,Wyoming,SD
+WV,Unknown,0.60%
+WI,Adams,SD
+WI,Ashland,0.00%
+WI,Barron,SD
+WI,Bayfield,0.00%
+WI,Brown,0.80%
+WI,Buffalo,SD
+WI,Burnett,0.00%
+WI,Calumet,2.80%
+WI,Chippewa,2.80%
+WI,Clark,SD
+WI,Columbia,2.50%
+WI,Crawford,SD
+WI,Dane,0.40%
+WI,Dodge,1.90%
+WI,Door,SD
+WI,Douglas,1.40%
+WI,Dunn,SD
+WI,Eau Claire,0.90%
+WI,Florence,0.00%
+WI,Fond du Lac,2.50%
+WI,Forest,0.00%
+WI,Grant,SD
+WI,Green,1.80%
+WI,Green Lake,SD
+WI,Iowa,0.00%
+WI,Iron,0.00%
+WI,Jackson,SD
+WI,Jefferson,2.10%
+WI,Juneau,SD
+WI,Kenosha,1.80%
+WI,Kewaunee,SD
+WI,La Crosse,1.40%
+WI,Lafayette,SD
+WI,Langlade,0.00%
+WI,Lincoln,2.80%
+WI,Manitowoc,4.90%
+WI,Marathon,1.70%
+WI,Marinette,SD
+WI,Marquette,0.00%
+WI,Menominee,SD
+WI,Milwaukee,2.90%
+WI,Monroe,2.40%
+WI,Oconto,SD
+WI,Oneida,SD
+WI,Outagamie,SD
+WI,Ozaukee,1.00%
+WI,Pepin,0.00%
+WI,Pierce,SD
+WI,Polk,SD
+WI,Portage,1.00%
+WI,Price,SD
+WI,Racine,2.20%
+WI,Richland,SD
+WI,Rock,2.10%
+WI,Rusk,SD
+WI,St. Croix,SD
+WI,Sauk,2.80%
+WI,Sawyer,0.00%
+WI,Shawano,SD
+WI,Sheboygan,3.50%
+WI,Taylor,SD
+WI,Trempealeau,SD
+WI,Vernon,SD
+WI,Vilas,SD
+WI,Walworth,1.80%
+WI,Washburn,0.00%
+WI,Washington,1.10%
+WI,Waukesha,0.70%
+WI,Waupaca,SD
+WI,Waushara,SD
+WI,Winnebago,2.20%
+WI,Wood,1.20%
+WI,Unknown,1.70%
+MN,Aitkin ,1.123595506
+MN,Anoka ,0.201918223
+MN,Becker ,0
+MN,Beltrami ,0.225225225
+MN,Benton ,0.184162063
+MN,Big Stone ,1.960784314
+MN,Blue Earth ,1.492537313
+MN,Brown ,1.244813278
+MN,Carlton ,0.607902736
+MN,Carver ,0.639658849
+MN,Cass ,0.970873786
+MN,Chippewa ,0
+MN,Chisago ,0.202020202
+MN,Clay ,0
+MN,Clearwater ,0
+MN,Cook ,0
+MN,Cottonwood ,0
+MN,Crow Wing ,0
+MN,Dakota ,0.253753436
+MN,Dodge ,0.99009901
+MN,Douglas ,0.275482094
+MN,Faribault ,1.818181818
+MN,Fillmore ,2.34375
+MN,Freeborn ,2.016129032
+MN,Goodhue ,2.162162162
+MN,Grant ,0
+MN,Hennepin ,0.627382465
+MN,Houston ,3
+MN,Hubbard ,1.481481481
+MN,Isanti ,0.71942446
+MN,Itasca ,0.959232614
+MN,Jackson ,2.816901408
+MN,Kanabec ,1.503759398
+MN,Kandiyohi ,1.014198783
+MN,Kittson ,0
+MN,Koochiching ,1.176470588
+MN,Lac qui Parle ,0
+MN,Lake ,1.234567901
+MN,Lake of the Woods ,0
+MN,Le Sueur ,0.836820084
+MN,Lincoln ,0
+MN,Lyon ,0
+MN,McLeod ,0.970873786
+MN,Mahnomen ,2.857142857
+MN,Marshall ,3.703703704
+MN,Martin ,2.116402116
+MN,Meeker ,0.446428571
+MN,Mille Lacs ,0
+MN,Morrison ,0.309597523
+MN,Mower ,0.890207715
+MN,Murray ,0
+MN,Nicollet ,0
+MN,Nobles ,0.332225914
+MN,Norman ,1.639344262
+MN,Olmsted ,0.784929356
+MN,Otter Tail ,0.442477876
+MN,Pennington ,0
+MN,Pine ,0.617283951
+MN,Pipestone ,0
+MN,Polk ,1.507537688
+MN,Pope ,1.136363636
+MN,Ramsey ,1.132660978
+MN,Red Lake ,0
+MN,Redwood ,1.257861635
+MN,Renville ,2.5
+MN,Rice ,0.958466454
+MN,Rock ,0
+MN,Roseau ,3.03030303
+MN,St. Louis ,1.438398999
+MN,Scott ,0
+MN,Sherburne ,0.20768432
+MN,Sibley ,1.481481481
+MN,Stearns ,0.622083981
+MN,Steele ,0.662251656
+MN,Stevens ,0
+MN,Swift ,1.086956522
+MN,Todd ,0
+MN,Traverse ,0
+MN,Wabasha ,1.754385965
+MN,Wadena ,1.219512195
+MN,Waseca ,1.242236025
+MN,Washington ,0.326264274
+MN,Watonwan ,2.941176471
+MN,Wilkin ,1.724137931
+MN,Winona ,3.236245955
+MN,Wright ,0
+MN,Yellow Medicine ,1.219512195
+NM,Catron,0.00%
+NM,Chaves,0.70%
+NM,Colfax,0.00%
+NM,Curry,1.30%
+NM,De Baca,2.90%
+NM,Dona Ana,1.30%
+NM,Eddy,1.10%
+NM,Grant,1.40%
+NM,Guadalupe,0.00%
+NM,Harding,0.00%
+NM,Hidalgo,2.50%
+NM,Lea,1.30%
+NM,Lincoln,0.60%
+NM,Los Alamos,0.00%
+NM,Luna,1.40%
+NM,McKinley,0.80%
+NM,Mora,0.00%
+NM,Otero,1.20%
+NM,Quay,1.70%
+NM,Rio Arriba,0.50%
+NM,Roosevelt,0.50%
+NM,Sandoval,0.80%
+NM,San Juan,2.50%
+NM,San Miguel,0.40%
+NM,Santa Fe,0.60%
+NM,Sierra,3.50%
+NM,Socorro,2.30%
+NM,Taos,0.60%
+NM,Torrance,1.50%
+NM,Union,0.00%
+NM,Valencia,0.90%
+OH,Adams,1.71%
+OH,Allen,2.08%
+OH,Ashland,1.91%
+OH,Ashtabula,2.05%
+OH,Athens,1.65%
+OH,Auglaize,1.14%
+OH,Belmont,2.36%
+OH,Brown,0.23%
+OH,Butler,0.55%
+OH,Carroll,1.40%
+OH,Champaign,1.27%
+OH,Clark,4.15%
+OH,Clermont,0.13%
+OH,Clinton,0.71%
+OH,Columbiana,1.39%
+OH,Coshocton,1.83%
+OH,Crawford,2.26%
+OH,Cuyahoga,3.76%
+OH,Darke,0.61%
+OH,Defiance,2.16%
+OH,Delaware,0.60%
+OH,Erie,0.45%
+OH,Fairfield,0.45%
+OH,Fayette,2.73%
+OH,Franklin,0.58%
+OH,Fulton,1.84%
+OH,Gallia,0.00%
+OH,Geauga,0.90%
+OH,Greene,0.21%
+OH,Guernsey,0.83%
+OH,Hamilton,1.11%
+OH,Hancock,1.10%
+OH,Hardin,3.77%
+OH,Harrison,2.96%
+OH,Henry,1.56%
+OH,Highland,2.55%
+OH,Hocking,1.32%
+OH,Holmes,3.38%
+OH,Huron,1.79%
+OH,Jackson,0.59%
+OH,Jefferson,2.63%
+OH,Knox,1.32%
+OH,Lake,0.60%
+OH,Lawrence,0.00%
+OH,Licking,0.80%
+OH,Logan,1.21%
+OH,Lorain,0.84%
+OH,Lucas,2.39%
+OH,Madison,1.18%
+OH,Mahoning,1.11%
+OH,Marion,1.99%
+OH,Medina,0.71%
+OH,Meigs,0.83%
+OH,Mercer,1.12%
+OH,Miami,1.16%
+OH,Monroe,2.38%
+OH,Montgomery,1.10%
+OH,Morgan,2.18%
+OH,Morrow,0.83%
+OH,Muskingum,1.48%
+OH,Noble,1.73%
+OH,Ottawa,0.98%
+OH,Paulding,1.76%
+OH,Perry,0.89%
+OH,Pickaway,0.37%
+OH,Pike,0.47%
+OH,Portage,0.23%
+OH,Preble,1.45%
+OH,Putnam,0.00%
+OH,Richland,1.58%
+OH,Ross,0.56%
+OH,Sandusky,2.11%
+OH,Scioto,0.62%
+OH,Seneca,1.14%
+OH,Shelby,1.25%
+OH,Stark,1.47%
+OH,Summit,0.93%
+OH,Trumbull,1.00%
+OH,Tuscarawas,1.37%
+OH,Union,1.13%
+OH,Van Wert,1.96%
+OH,Vinton,1.54%
+OH,Warren,0.42%
+OH,Washington,1.10%
+OH,Wayne,1.06%
+OH,Williams,0.84%
+OH,Wood,0.57%
+OH,Wood,1.30%
+TX,ANDERSON,10.47
+TX,ANDREWS,SD
+TX,ANGELINA,0.78
+TX,ARANSAS,0
+TX,ARCHER,SD
+TX,ARMSTRONG,SD
+TX,ATASCOSA,1.53
+TX,AUSTIN,3.11
+TX,BAILEY,0
+TX,BANDERA,SD
+TX,BASTROP,1.58
+TX,BAYLOR,SD
+TX,BEE,SD
+TX,BELL,0.69
+TX,BEXAR,1.83
+TX,BLANCO,0
+TX,BORDEN,0
+TX,BOSQUE,SD
+TX,BOWIE,2.17
+TX,BRAZORIA,0.83
+TX,BRAZOS,0.82
+TX,BREWSTER,0
+TX,BRISCOE,0
+TX,BROOKS,SD
+TX,BROWN,SD
+TX,BURLESON,SD
+TX,BURNET,2.56
+TX,CALDWELL,0.91
+TX,CALHOUN,SD
+TX,CALLAHAN,6
+TX,CAMERON,1.09
+TX,CAMP,SD
+TX,CARSON,0
+TX,CASS,2.06
+TX,CASTRO,SD
+TX,CHAMBERS,1.05
+TX,CHEROKEE,2.19
+TX,CHILDRESS,SD
+TX,CLAY,SD
+TX,COCHRAN,SD
+TX,COKE,0
+TX,COLEMAN,0
+TX,COLLIN,1.22
+TX,COLLINGSWORTH,0
+TX,COLORADO,SD
+TX,COMAL,0.84
+TX,COMANCHE,5.48
+TX,CONCHO,SD
+TX,COOKE,5.17
+TX,CORYELL,SD
+TX,COTTLE,0
+TX,CRANE,0
+TX,CROCKETT,0
+TX,CROSBY,SD
+TX,CULBERSON,0
+TX,DALLAM,0
+TX,DALLAS,1.44
+TX,DAWSON,0
+TX,DEAF SMITH,SD
+TX,DELTA,0
+TX,DENTON,1.15
+TX,DEWITT,SD
+TX,DICKENS,0
+TX,DIMMIT,SD
+TX,DONLEY,0
+TX,DUVAL,SD
+TX,EASTLAND,5.96
+TX,ECTOR,0.44
+TX,EDWARDS,0
+TX,EL PASO,1.07
+TX,ELLIS,0.68
+TX,ERATH,SD
+TX,FALLS,3.11
+TX,FANNIN,3.3
+TX,FAYETTE,SD
+TX,FISHER,0
+TX,FLOYD,SD
+TX,FOARD,0
+TX,FORT BEND,0.57
+TX,FRANKLIN,0
+TX,FREESTONE,SD
+TX,FRIO,SD
+TX,GAINES,SD
+TX,GALVESTON,2.08
+TX,GARZA,SD
+TX,GILLESPIE,3.31
+TX,GLASSCOCK,0
+TX,GOLIAD,SD
+TX,GONZALES,SD
+TX,GRAY,SD
+TX,GRAYSON,1.32
+TX,GREGG,2.57
+TX,GRIMES,SD
+TX,GUADALUPE,1.31
+TX,HALE,1.92
+TX,HALL,SD
+TX,HAMILTON,0
+TX,HANSFORD,0
+TX,HARDEMAN,0
+TX,HARDIN,1.4
+TX,HARRIS,1.18
+TX,HARRISON,3.34
+TX,HARTLEY,0
+TX,HASKELL,SD
+TX,HAYS,1.02
+TX,HEMPHILL,0
+TX,HENDERSON,0.83
+TX,HIDALGO,1.19
+TX,HILL,SD
+TX,HOCKLEY,1.72
+TX,HOOD,SD
+TX,HOPKINS,4.3
+TX,HOUSTON,SD
+TX,HOWARD,SD
+TX,HUDSPETH,SD
+TX,HUNT,1.8
+TX,HUTCHINSON,SD
+TX,IRION,0
+TX,JACK,SD
+TX,JACKSON,0
+TX,JASPER,SD
+TX,JEFF DAVIS,0
+TX,JEFFERSON,1.75
+TX,JIM HOGG,0
+TX,JIM WELLS,1.14
+TX,JOHNSON,1.41
+TX,JONES,SD
+TX,KARNES,SD
+TX,KAUFMAN,1.18
+TX,KENDALL,SD
+TX,KENEDY,0
+TX,KENT,SD
+TX,KERR,2.22
+TX,KIMBLE,0
+TX,KING,0
+TX,KINNEY,0
+TX,KLEBERG,2.88
+TX,KNOX,SD
+TX,LA SALLE,SD
+TX,LAMAR,4.43
+TX,LAMB,SD
+TX,LAMPASAS,SD
+TX,LAVACA,3.85
+TX,LEE,0
+TX,LEON,0
+TX,LIBERTY,1.39
+TX,LIMESTONE,SD
+TX,LIPSCOMB,SD
+TX,LIVE OAK,SD
+TX,LLANO,3.31
+TX,LOVING,0
+TX,LUBBOCK,1.06
+TX,LYNN,SD
+TX,MADISON,SD
+TX,MARION,SD
+TX,MARTIN,SD
+TX,MASON,SD
+TX,MATAGORDA,1.58
+TX,MAVERICK,0.61
+TX,MCCULLOCH,SD
+TX,MCLENNAN,2.72
+TX,MCMULLEN,0
+TX,MEDINA,1.37
+TX,MENARD,0
+TX,MIDLAND,0.86
+TX,MILAM,4.61
+TX,MILLS,0
+TX,MITCHELL,SD
+TX,MONTAGUE,SD
+TX,MONTGOMERY,0.64
+TX,MOORE,SD
+TX,MORRIS,17.02
+TX,MOTLEY,0
+TX,NACOGDOCHES,1.98
+TX,NAVARRO,2.24
+TX,NEWTON,0
+TX,NOLAN,4.44
+TX,NUECES,1
+TX,OCHILTREE,SD
+TX,OLDHAM,0
+TX,ORANGE,1.37
+TX,PALO PINTO,SD
+TX,PANOLA,SD
+TX,PARKER,0.7
+TX,PARMER,SD
+TX,PECOS,SD
+TX,POLK,SD
+TX,POTTER,1.93
+TX,PRESIDIO,0
+TX,RAINS,SD
+TX,RANDALL,1.11
+TX,REAGAN,0
+TX,REAL,SD
+TX,RED RIVER,SD
+TX,REEVES,2.73
+TX,REFUGIO,SD
+TX,ROBERTS,0
+TX,ROBERTSON,SD
+TX,ROCKWALL,SD
+TX,RUNNELS,9.09
+TX,RUSK,3.1
+TX,SABINE,SD
+TX,SAN AUGUSTINE,0
+TX,SAN JACINTO,3.18
+TX,SAN PATRICIO,1.53
+TX,SAN SABA,SD
+TX,SCHLEICHER,SD
+TX,SCURRY,SD
+TX,SHACKELFORD,SD
+TX,SHELBY,SD
+TX,SHERMAN,SD
+TX,SMITH,2.16
+TX,SOMERVELL,0
+TX,STARR,1.56
+TX,STEPHENS,SD
+TX,STERLING,0
+TX,STONEWALL,0
+TX,SUTTON,SD
+TX,SWISHER,SD
+TX,TARRANT,1.36
+TX,TAYLOR,2.03
+TX,TERRELL,0
+TX,TERRY,SD
+TX,THROCKMORTON,SD
+TX,TITUS,4.59
+TX,TOM GREEN,0.63
+TX,TRAVIS,0.99
+TX,TRINITY,SD
+TX,TYLER,SD
+TX,UPSHUR,1.74
+TX,UPTON,0
+TX,UVALDE,1.35
+TX,VAL VERDE,2.43
+TX,VAN ZANDT,1.21
+TX,VICTORIA,1.85
+TX,WALKER,2.02
+TX,WALLER,SD
+TX,WARD,SD
+TX,WASHINGTON,1.86
+TX,WEBB,1.24
+TX,WHARTON,SD
+TX,WHEELER,0
+TX,WICHITA,3.07
+TX,WILBARGER,6.43
+TX,WILLACY,3.5
+TX,WILLIAMSON,1.21
+TX,WILSON,1.88
+TX,WINKLER,SD
+TX,WISE,SD
+TX,WOOD,5.33
+TX,YOAKUM,SD
+TX,YOUNG,SD
+TX,ZAPATA,SD
+TX,ZAVALA,0
+TX,UNKNOWN,0.24
+ND,Williams,0.78
+ND,McKenzie,1
+ND,McLean,1.05
+ND,Mercer,1.17
+ND,Burleigh,1.28
+ND,Ward,1.49
+ND,Bottineau,1.6
+ND,Mountrail,1.65
+ND,Sioux,1.72
+ND,Walsh,1.87
+ND,Morton,2.27
+ND,Ramsey,2.46
+ND,LaMoure,2.62
+ND,Cavalier,2.73
+ND,Grand Forks,2.82
+ND,Stutsman,3.67
+ND,Stark,3.71
+ND,Hettinger,3.85
+ND,McIntosh,4.45
+ND,Grant,4.9
+ND,Cass,5.26
+ND,Dickey,5.76
+ND,Dunn,6.3
+ND,Benson,6.73
+ND,Nelson,7.49
+ND,Traill,8.59
+ND,Rolette,8.64
+ND,Richland,8.84
+ND,Ransom,9.18
+ND,Pembina,9.45
+ND,Bowman,9.68
+ND,Griggs,9.83
+ND,Barnes,11.89
+ND,Sargent,14.06
+ND,Adams,21.45
+CA,Alameda,0.0314
+CA,Amador,SD
+CA,Berkeley,SD
+CA,Butte,0.0448
+CA,Calaveras,0.0225
+CA,Colusa,SD
+CA,Contra Costa,SD
+CA,Del Norte,0.0226
+CA,El Dorado,SD
+CA,Fresno,0.0258
+CA,Glenn,0.0409
+CA,Humboldt,SD
+CA,Imperial,0.0784
+CA,Inyo,0.0101
+CA,Kern,SD
+CA,Kings,0.0211
+CA,Lake,0.0229
+CA,Lassen,SD
+CA,Long Beach,SD
+CA,Los Angeles,0.0192
+CA,Madera,0.016
+CA,Marin,0.0206
+CA,Mariposa,0.0143
+CA,Mendocino,SD
+CA,Merced,0.0304
+CA,Modoc,0.017
+CA,Mono,SD
+CA,Monterey,SD
+CA,Napa,0.0292
+CA,Nevada,0.0263
+CA,Orange,0.0855
+CA,Pasadena,0.0188
+CA,Placer,0.0196
+CA,Plumas,0.0148
+CA,Riverside,SD
+CA,Sacramento,0.0106
+CA,San Benito,0.0317
+CA,San Bernardino,SD
+CA,San Diego,0.0125
+CA,San Francisco,0.0203
+CA,San Joaquin,0.0222
+CA,San Luis Obispo,0.0168
+CA,San Mateo,0.035
+CA,Santa Barbara,0.0076
+CA,Santa Clara,0.0188
+CA,Santa Cruz,0.0173
+CA,Shasta,0.0332
+CA,Sierra,0.0555
+CA,Siskiyou,SD
+CA,Solano,SD
+CA,Sonoma,0.0402
+CA,Stanislaus,0.0281
+CA,Sutter,0.0159
+CA,Tehama,0.0171
+CA,Trinity,0.0228
+CA,Tulare,SD
+CA,Tuolumne,0.0308
+CA,Ventura,0.0506
+CA,Yolo,0.0117
+CA,Yuba,0.0338
+IN,Adams,0
+IN,Allen,0.38
+IN,Bartholomew,0.08
+IN,Benton,0
+IN,Blackford,0
+IN,Boone,0
+IN,Brown,0
+IN,Carroll,0
+IN,Cass,1.1
+IN,Clark,0.06
+IN,Clay,0
+IN,Clinton,0.51
+IN,Crawford,0
+IN,Daviess,0.69
+IN,Dearborn,0.32
+IN,Decatur,0
+IN,DeKalb,0
+IN,Delaware,1.31
+IN,Dubois,0
+IN,Elkhart,0.22
+IN,Fayette,0
+IN,Floyd,0.1
+IN,Fountain,0.78
+IN,Franklin,0.83
+IN,Fulton,1.36
+IN,Gibson,0.39
+IN,Grant,1.1
+IN,Greene,0
+IN,Hamilton,0.05
+IN,Hancock,0
+IN,Harrison,0.22
+IN,Hendricks,0.44
+IN,Henry,0.53
+IN,Howard,0
+IN,Huntington,0.27
+IN,Jackson,0.68
+IN,Jasper,0
+IN,Jay,0
+IN,Jefferson,0
+IN,Jennings,0
+IN,Johnson,0
+IN,Knox,0.84
+IN,Kosciusko,0.42
+IN,LaGrange,0.79
+IN,Lake,0.43
+IN,LaPorte,0.33
+IN,Lawrence,0.28
+IN,Madison,0.26
+IN,Marion,0.23
+IN,Marshall,0.27
+IN,Martin,0
+IN,Miami,0
+IN,Monroe,0.14
+IN,Montgomery,0.55
+IN,Morgan,0
+IN,Newton,2.33
+IN,Noble,0
+IN,Ohio,0
+IN,Orange,0
+IN,Owen,0.91
+IN,Parke,0
+IN,Perry,0
+IN,Pike,0
+IN,Porter,0.11
+IN,Posey,0.55
+IN,Pulaski,0
+IN,Putnam,0
+IN,Randolph,0
+IN,Ripley,0
+IN,Rush,3.4
+IN,Scott,0
+IN,Shelby,0.21
+IN,Spencer,0
+IN,St. Joseph,0.82
+IN,Starke,0
+IN,Steuben,0
+IN,Sullivan,0
+IN,Switzerland,0
+IN,Tippecanoe,0.23
+IN,Tipton,0
+IN,Union,0
+IN,Vanderburgh,0.26
+IN,Vermillion,0
+IN,Vigo,0.58
+IN,Wabash,0
+IN,Warren,0
+IN,Warrick,0
+IN,Washington,0.28
+IN,Wayne,0.7
+IN,Wells,0.53
+IN,White,0.35
+IN,Whitley,0.32
+AZ,Apache,1.7
+AZ,Cochise,0.6
+AZ,Coconino,0.3
+AZ,Gila,1.4
+AZ,Graham,2.3
+AZ,Greenlee,4.7
+AZ,La Paz,1.5
+AZ,Maricopa,0.3
+AZ,Mohave,0.4
+AZ,Navajo,1.1
+AZ,Pima,0.4
+AZ,Pinal,0.2
+AZ,Santa Cruz,0.3
+AZ,Yavapai,0.2
+AZ,Yuma,0.2
