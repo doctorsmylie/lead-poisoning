@@ -68,19 +68,19 @@ AL,Wilcox,SD
 AL,Winston,SD
 AL,Unknown,0.20%
 AK,Aleutians East,0.00%
-AK,Aleutians West (CA),0.00%
-AK,Anchorage,SD
-AK,Bethel (CA),SD
+AK,Aleutians West,0.00%
+AK,Anchorage Municipality,SD
+AK,Bethel,SD
 AK,Bristol Bay,0.00%
 AK,Denali,0.00%
-AK,Dillingham (CA),SD
-AK,Fairbanks North Star,SD
+AK,Dillingham,SD
+AK,Fairbanks North Star Borough,SD
 AK,Haines,0.00%
-AK,Juneau,0.00%
-AK,Kenai Peninsula,0.00%
+AK,Juneau City and Borough,0.00%
+AK,Kenai Peninsula Borough,0.00%
 AK,Ketchikan Gateway,0.00%
 AK,Kodiak Island,0.00%
-AK,Matanuska-Susitna,SD
+AK,Matanuska-Susitna Borough,SD
 AK,Nome (CA),0.00%
 AK,North Slope,0.00%
 AK,Northwest Arctic,0.00%
@@ -1013,7 +1013,7 @@ MO,Wayne,0.00%
 MO,Webster,SD
 MO,Worth,0.00%
 MO,Wright,SD
-MO,St. Louis (city),4.60%
+MO,St. Louis,4.60%
 MO,Unknown,SD
 NV,Churchill,0.00%
 NV,Clark,0.30%
@@ -1028,7 +1028,7 @@ NV,Mineral,0.00%
 NV,Pershing,0.00%
 NV,Washoe,SD
 NV,White Pine,0.00%
-NV,Carson City (city),SD
+NV,Carson City,SD
 NV,Unknown,0.00%
 NH,Belknap,2.00%
 NH,Carroll,SD
